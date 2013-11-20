@@ -1,7 +1,7 @@
 {
   "name": "mccmnc",
   "description": "MCC/MNC to country and network mapper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "mcc",
     "mnc"
